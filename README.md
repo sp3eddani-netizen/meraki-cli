@@ -1,4 +1,4 @@
-# Meraki-CLI <img align="right" width="200" height="200" src="icon.png">
+pip3 install meraki-cli# Meraki-CLI <img align="right" width="200" height="200" src="icon.png">
 
 
 [![Build Status](https://github.com/PackeTsar/meraki-cli/actions/workflows/python-package.yml/badge.svg)](https://github.com/PackeTsar/meraki-cli/actions/workflows/python-package.yml)
